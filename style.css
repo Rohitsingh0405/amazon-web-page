@@ -92,3 +92,22 @@ body{
 	align-items: center;
 	font-size: 30px;
 }
+.last{
+	background-color: #37475a;
+	width: 100%;
+	height: 600px;
+	color: white;
+	font-size: larger;
+	font-weight: bolder;
+	
+}
+.last1{
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-around;
+	
+}
+.last2{
+	display: flex;
+	justify-content: space-evenly;
+}
